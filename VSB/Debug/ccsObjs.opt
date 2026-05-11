@@ -1,0 +1,1 @@
+"./usbstk5515_led.obj" "./usbstk5515_i2c.obj" "./usbstk5515_gpio.obj" "./usbstk5515.obj" "./sinewaves.obj" "./main.obj" "./aic3204_init.obj" "./aic3204.obj" "./Transfer.obj" "./PLL.obj" -l"libc.a" "../55xdsph.lib" "../CSLc55x5h.lib" "../lnkx.cmd" 
